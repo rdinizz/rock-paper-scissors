@@ -1,5 +1,6 @@
 BackEnd: Firebase Cloud Firestore
 Redux - redux-thunk
+Authentication: Firebase (email/password)
 
 App flow:
 
